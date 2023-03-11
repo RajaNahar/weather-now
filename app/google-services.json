@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989242956086",
+    "project_id": "weather-ecc2c",
+    "storage_bucket": "weather-ecc2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989242956086:android:3b96be7ec5bddf0ed0bb97",
+        "android_client_info": {
+          "package_name": "com.raja.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989242956086-02pn36g5th7psk2j0sql74381ckaa1js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnuQNRoqAPO6zZNpK7QYqzr4e94pnFAt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989242956086-02pn36g5th7psk2j0sql74381ckaa1js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
